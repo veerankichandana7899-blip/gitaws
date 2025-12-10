@@ -1,6 +1,6 @@
 
-def find_square(num):
-    result = num * num
+def find_square(a):
+    result = a * a
     return result
 
 # Function call
